@@ -7,7 +7,10 @@ function App() {
 
   return (
     <>
-    <h1> Hello</h1>
+    <h1> Hello  </h1>
+    <p> this is my First Project </p>
+    <p>Name: Arpit Gupta</p>
+    <p>2300033545</p>
     </>
   )
 }
